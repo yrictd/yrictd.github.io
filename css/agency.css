@@ -5,14 +5,15 @@
  */
 html {
     height: 100%;
+    width: 100%;
 }
 
 body {
   overflow-x: hidden;
-  overflow: auto;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-size: cover;
-  height: 100%; }
+  height: 100%;
+  width: 100%; }
 
 p {
   line-height: 1.75; }
