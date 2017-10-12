@@ -9,6 +9,7 @@ html {
 
 body {
   overflow-x: hidden;
+  overflow: auto;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-size: cover;
   height: 100%; }
